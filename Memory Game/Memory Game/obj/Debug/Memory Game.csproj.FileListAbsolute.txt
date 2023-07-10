@@ -1,0 +1,37 @@
+C:\Users\Arish\Documents\Visual Studio Projects\Section11\Memory Game\Memory Game\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arish\Documents\Visual Studio Projects\Section11\Memory Game\Memory Game\obj\Debug\Memory_Game.Form1.resources
+C:\Users\Arish\Documents\Visual Studio Projects\Section11\Memory Game\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\Arish\Documents\Visual Studio Projects\Section11\Memory Game\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.Cache
+C:\Users\Arish\Documents\Visual Studio Projects\Section11\Memory Game\Memory Game\bin\Debug\Memory Game.exe
+C:\Users\Arish\Documents\Visual Studio Projects\Section11\Memory Game\Memory Game\bin\Debug\Memory Game.pdb
+C:\Users\Arish\Documents\Visual Studio Projects\Section11\Memory Game\Memory Game\obj\Debug\Memory Game.exe
+C:\Users\Arish\Documents\Visual Studio Projects\Section11\Memory Game\Memory Game\obj\Debug\Memory Game.pdb
+E:\1_Teaching\Student Projects\C#\MFT-100-Sharifian\Memory Game\Memory Game\Memory Game\obj\Debug\Memory Game.exe
+E:\1_Teaching\Student Projects\C#\MFT-100-Sharifian\Memory Game\Memory Game\Memory Game\obj\Debug\Memory Game.pdb
+G:\new for zh\csharp games\Memory Game\Memory Game\obj\Debug\Memory Game.exe
+G:\new for zh\csharp games\Memory Game\Memory Game\obj\Debug\Memory Game.pdb
+G:\new for zh\csharp games\Memory Game\Memory Game\bin\Debug\Memory Game.exe
+G:\new for zh\csharp games\Memory Game\Memory Game\bin\Debug\Memory Game.pdb
+G:\new for zh\csharp games\Memory Game\Memory Game\obj\Debug\ResolveAssemblyReference.cache
+G:\new for zh\csharp games\Memory Game\Memory Game\obj\Debug\Memory_Game.Form1.resources
+G:\new for zh\csharp games\Memory Game\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+G:\new for zh\csharp games\Memory Game\Memory Game\obj\Debug\ResGen.read.1.tlog
+G:\new for zh\csharp games\Memory Game\Memory Game\obj\Debug\ResGen.write.1.tlog
+C:\Users\zhila\Desktop\Memory Game\Memory Game\obj\Debug\Memory Game.exe
+C:\Users\zhila\Desktop\Memory Game\Memory Game\obj\Debug\Memory Game.pdb
+C:\Users\zhila\Desktop\Memory Game\Memory Game\bin\Debug\Memory Game.exe
+C:\Users\zhila\Desktop\Memory Game\Memory Game\bin\Debug\Memory Game.pdb
+C:\Users\zhila\Desktop\Memory Game\Memory Game\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zhila\Desktop\Memory Game\Memory Game\obj\Debug\Memory_Game.Form1.resources
+C:\Users\zhila\Desktop\Memory Game\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\zhila\Desktop\Memory Game\Memory Game\obj\Debug\ResGen.read.1.tlog
+C:\Users\zhila\Desktop\Memory Game\Memory Game\obj\Debug\ResGen.write.1.tlog
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\bin\Debug\Memory Game.exe
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\bin\Debug\Memory Game.pdb
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\obj\Debug\Memory Game.csprojAssemblyReference.cache
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\obj\Debug\Memory_Game.Form1.resources
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.cache
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\obj\Debug\Memory Game.exe
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\obj\Debug\Memory Game.pdb

@@ -1,0 +1,9 @@
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\bin\Release\Memory Game.exe
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\bin\Release\Memory Game.pdb
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\obj\Release\Memory Game.csprojAssemblyReference.cache
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\obj\Release\Memory_Game.Form1.resources
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\obj\Release\Memory_Game.Properties.Resources.resources
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\obj\Release\Memory Game.csproj.GenerateResource.cache
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\obj\Release\Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\obj\Release\Memory Game.exe
+C:\Users\MILAD\Desktop\1source_memory_game_with_csharp\Memory Game\Memory Game\obj\Release\Memory Game.pdb
